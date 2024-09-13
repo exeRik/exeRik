@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="350" src="github-header-image.png" >
+<img align="center" width="100%" src="github-header-image.png" >
 <h1 align="center">Hey! I'm Smarika 👋🏻</h1>
 <h3 align="center">Software Developer.</h3>
 
