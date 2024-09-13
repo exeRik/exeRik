@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center"> I'm Smarika 👩🏻</h1>
 <h3 align="center">Software Developer.</h3>
 
