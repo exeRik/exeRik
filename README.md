@@ -3,6 +3,7 @@
 <h3 align="center">Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exerik&label=Profile%20views&color=0e75b6&style=flat" alt="exerik" /> </p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/2rjsiAfUxEZNsGzv76" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-2rjsiAfUxEZNsGzv76">via GIPHY</a></p>
 
 - 👨‍💻 All of my projects are available at [smarikapokharel.com.np](smarikapokharel.com.np)
 
