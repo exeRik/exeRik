@@ -1,9 +1,8 @@
 <img align="center" width="100%" src="github-header-image.png" >
 <h1 align="center">Hey! I'm Smarika 👋🏻</h1>
-<h3 align="center">Software Developer.</h3>
+<h3 align="center">Frontend Developer.</h3>
 
 <img align="right" width="330" src="gif.gif" >
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exerik&label=Profile%20views&color=0e75b6&style=flat" alt="exerik" /> </p>
 
 
